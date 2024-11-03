@@ -1,0 +1,14 @@
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net8.0\UniversityManagementSystem.exe
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net8.0\UniversityManagementSystem.deps.json
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net8.0\UniversityManagementSystem.runtimeconfig.json
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net8.0\UniversityManagementSystem.dll
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net8.0\UniversityManagementSystem.pdb
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.AssemblyInfoInputs.cache
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.AssemblyInfo.cs
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.dll
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\refint\UniversityManagementSystem.dll
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.pdb
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\UniversityManagementSystem.genruntimeconfig.cache
+C:\Users\MAS0323\source\repos\5\lb4\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net8.0\ref\UniversityManagementSystem.dll
